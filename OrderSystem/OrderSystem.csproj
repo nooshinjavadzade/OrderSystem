@@ -46,6 +46,8 @@
     <Compile Include="Log\FileLogger.cs" />
     <Compile Include="Log\ILogger.cs" />
     <Compile Include="Models\Order.cs" />
+    <Compile Include="Notifiers\EmailNotifier.cs" />
+    <Compile Include="Notifiers\INotifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
